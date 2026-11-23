@@ -30,7 +30,7 @@ A **basic logic game** and brain trainer built in Python using **Tkinter**. Base
 
 1. Clone or download the project files to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/Zain-R98/Color-Game.git
    cd color-game
    ```
 
